@@ -1,0 +1,17 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node ."
+  },
+  "keywords": [],
+  "author": "Khumo Mogorosi",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0"
+  }
+}
